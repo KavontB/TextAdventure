@@ -1,0 +1,13 @@
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.exe
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.deps.json
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.runtimeconfig.json
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.runtimeconfig.dev.json
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.dll
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\bin\Debug\netcoreapp3.1\TextAdventure.pdb
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csprojAssemblyReference.cache
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfoInputs.cache
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.AssemblyInfo.cs
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.dll
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.pdb
+C:\Users\kavon\source\repos\TextAdventure\TextAdventure\obj\Debug\netcoreapp3.1\TextAdventure.genruntimeconfig.cache
