@@ -17,7 +17,7 @@ namespace TextAdventure
             $"that makes your heart stop. At the end of the sidewalk where the streetlights don't reach stands a shadowy figure." +
             $"Your dog starts growling at it and suddenly lunges at the figure, causing you to drop the leash.");
             Console.WriteLine($"Now {name}, you have 3 choices. To make a choice type the word that is typed in all caps " +
-                $"that corresponds with your choice.",
+                $"that corresponds with your choice."+
             $"1)You can FOLLOW your dog and confront the shadowy figure, 2)you can attempt to GRAB  " +
             $"the leash and pull {dogName} back, or 3) you can stay back and WATCH what happens.");
           

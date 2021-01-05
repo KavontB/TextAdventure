@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kavon\\source\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+      "projectUniqueName": "C:\\Users\\kavon\\OneDrive\\Desktop\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
       "projectName": "TextAdventure",
-      "projectPath": "C:\\Users\\kavon\\source\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
+      "projectPath": "C:\\Users\\kavon\\OneDrive\\Desktop\\repos\\TextAdventure\\TextAdventure\\TextAdventure.csproj",
       "packagesPath": "C:\\Users\\kavon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kavon\\source\\repos\\TextAdventure\\TextAdventure\\obj\\",
+      "outputPath": "C:\\Users\\kavon\\OneDrive\\Desktop\\repos\\TextAdventure\\TextAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kavon\\AppData\\Roaming\\NuGet\\NuGet.Config",
